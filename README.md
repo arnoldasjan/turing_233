@@ -5,7 +5,7 @@ This is an exercise to recreate digits predicting model from sklearn and put it 
 
 ## Results
 
-Model accuracy and f-1 score is high and equal to `0.9689`
+Model `accuracy` and `f-1 score` is high and equal to `0.9689`
 
 After checking response times we got that 20 individual requests vary, but are around 2 times faster than one batch request.
 
